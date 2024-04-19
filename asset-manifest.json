@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/firefleye/static/css/main.10132f13.css",
-    "main.js": "/firefleye/static/js/main.94c7f184.js",
+    "main.css": "/firefleye/static/css/main.5855b56d.css",
+    "main.js": "/firefleye/static/js/main.55870661.js",
     "static/js/453.ac5e6e0c.chunk.js": "/firefleye/static/js/453.ac5e6e0c.chunk.js",
     "index.html": "/firefleye/index.html",
-    "main.10132f13.css.map": "/firefleye/static/css/main.10132f13.css.map",
-    "main.94c7f184.js.map": "/firefleye/static/js/main.94c7f184.js.map",
+    "main.5855b56d.css.map": "/firefleye/static/css/main.5855b56d.css.map",
+    "main.55870661.js.map": "/firefleye/static/js/main.55870661.js.map",
     "453.ac5e6e0c.chunk.js.map": "/firefleye/static/js/453.ac5e6e0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10132f13.css",
-    "static/js/main.94c7f184.js"
+    "static/css/main.5855b56d.css",
+    "static/js/main.55870661.js"
   ]
 }
